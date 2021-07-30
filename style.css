@@ -825,11 +825,15 @@ section {
                 /*Seccion 2 */
                 
                 .two p {
-                    font-size: 15px;
+                    font-size: 13px;
+                    letter-spacing: 0;
+
                 }
 
                 .two h2{
                     padding: 20px;
+                    font-weight: 300;
+
                     
                 }
 
